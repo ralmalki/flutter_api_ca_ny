@@ -1,9 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.flutter_api_ca_ny">
+
    <application
         android:label="flutter_api_ca_ny"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+            <!-- Provide required visibility configuration for API level 30 and above -->
         <activity
             android:name=".MainActivity"
             android:exported="true"
