@@ -1,6 +1,6 @@
 # flutter_api_ca_ny
 
-## Hello and think you for giving me this aboportunity to show you my skills.
+## Hello and think you for giving me this opportunity.
 
 ### You can check the packges that I used in pubspec.yaml file.
 
