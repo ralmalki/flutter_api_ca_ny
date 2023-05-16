@@ -6,7 +6,7 @@
 
 During this project I followed the clean architecture explained in the following image:
 
-![Clean Architecture!](imgs\flutter_clean_architecture.png "Clean Architecture")
+![Clean Architecture!](imgs/flutter_clean_architecture.png "Clean Architecture")
 
 
 --------------------------------------------
